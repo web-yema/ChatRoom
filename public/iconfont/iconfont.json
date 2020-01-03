@@ -1,0 +1,65 @@
+{
+  "id": "1560925",
+  "name": "qqss",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "690197",
+      "name": "动态点击",
+      "font_class": "iconfontdongtaidianji",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "705680",
+      "name": "联系人",
+      "font_class": "lianxiren",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "3881858",
+      "name": "消息,聊天",
+      "font_class": "xiaoxi",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "5809149",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "12298842",
+      "name": "消息,聊天",
+      "font_class": "xiaoxi-copy",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "12298861",
+      "name": "查看",
+      "font_class": "chakan-copy",
+      "unicode": "e762",
+      "unicode_decimal": 59234
+    },
+    {
+      "icon_id": "12298864",
+      "name": "动态点击",
+      "font_class": "iconfontdongtaidianji-copy",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "12298966",
+      "name": "联系人",
+      "font_class": "lianxiren-copy",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    }
+  ]
+}
