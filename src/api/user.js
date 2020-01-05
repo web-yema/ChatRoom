@@ -155,3 +155,14 @@ export let upadatapassword = (data) => {
     // username:username
   })
 }
+
+// 删除好友
+export let deletefriend = (data) => {
+  console.log(data);
+  
+  return axios({
+    method: 'post',
+    url: '/deletefriend',
+    data:data
+  })
+}
